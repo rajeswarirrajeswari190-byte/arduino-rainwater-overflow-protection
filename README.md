@@ -110,7 +110,7 @@ flowchart TD
 - Connect all module VCC pins to **5V** and all GND pins to **GND** (common ground).
 - **Bluetooth RX** accepts only 3.3V: connect a 1k resistor from D5 to the module RX, and a 2k resistor from that RX pin to GND.
 - Keep the prototype **low-voltage only**. Never connect mains power to the relay in a demo.
-
+## connection ![connection](connection.jpg)
 ## Software setup
 
 1. Install the [Arduino IDE](https://www.arduino.cc/en/software).
@@ -195,7 +195,7 @@ Edit these constants in the code after testing your own setup:
     ├── circuit_photo.jpg
     └── demo.gif
 ```
-
+## sche ![sche](sche.jpg)
 ## License
 
 This project is released under the MIT License. Add a `LICENSE` file to the repository.
