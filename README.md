@@ -200,7 +200,3 @@ Edit these constants in the code after testing your own setup:
 
 This project is released under the MIT License. Add a `LICENSE` file to the repository.
 
-## Author
-
-**Shamini**, Electronics and Communication Engineering student
-Add your college name, email and LinkedIn link here.
